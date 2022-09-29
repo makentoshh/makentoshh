@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenneth Ung @makentoshh
 - 👀 I’m interested in automation and watching kdramas.
-- 🌱 I’m currently learning architecting in AWS
+- 🌱 I’m currently learning architecting in AWS/Azure
 - 💞️ I’m looking to collaborate on doing some chaos engineering to test reliability of systems.  
 - 📫 How to reach me : https://www.linkedin.com/in/kenneth-ung/
 
